@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Pham Hai Nam
+* ID: BI12-307
 * Group ID: *Your Group ID here*
 
